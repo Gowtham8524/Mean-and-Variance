@@ -1,5 +1,11 @@
 #  Mean and variance of a discrete  distribution
+EXP NO :01
 
+DATE   :20/04/2026
+
+NAME   :Gowtham S
+
+REG NO :212224100018
 
 # Aim : 
 
@@ -73,6 +79,6 @@ print("Variance =", variance)
 # Results :
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
 
-# Name  : Gowtham S
-# RegNo :212224100018
+# Link
+https://github.com/Gowtham8524/Mean-and-Variance
 
